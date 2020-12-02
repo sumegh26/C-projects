@@ -1,0 +1,7 @@
+C:\Users\sneha\source\repos\studentManagement\studentManagement\bin\Debug\studentManagement.exe.config
+C:\Users\sneha\source\repos\studentManagement\studentManagement\bin\Debug\studentManagement.exe
+C:\Users\sneha\source\repos\studentManagement\studentManagement\bin\Debug\studentManagement.pdb
+C:\Users\sneha\source\repos\studentManagement\studentManagement\obj\Debug\studentManagement.csprojAssemblyReference.cache
+C:\Users\sneha\source\repos\studentManagement\studentManagement\obj\Debug\studentManagement.csproj.CoreCompileInputs.cache
+C:\Users\sneha\source\repos\studentManagement\studentManagement\obj\Debug\studentManagement.exe
+C:\Users\sneha\source\repos\studentManagement\studentManagement\obj\Debug\studentManagement.pdb
